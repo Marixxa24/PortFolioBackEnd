@@ -5,7 +5,9 @@
 package com.portfolio.mrs.Contoller;
 
 import com.portfolio.mrs.Dto.dtoExperiencia;
+import com.portfolio.mrs.Entity.Experiencia;
 import com.portfolio.mrs.Security.Controller.Mensaje;
+import com.portfolio.mrs.Service.SExperiencia;
 import io.micrometer.common.util.StringUtils;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
